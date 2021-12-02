@@ -3347,6 +3347,12 @@ MOBILE - RESPONSIVE
 
 .banner-img{
     padding: 230px 0;
+    width: 100%
+}
+
+.bg-img{
+    padding: 160px !important 
+    width: 100%
 }
 
 @media (max-width: 768px){
@@ -3360,5 +3366,9 @@ MOBILE - RESPONSIVE
     }
     .banner-img{
         padding: 65px 0;
+    }
+    .bg-img{
+        padding: 65px !important ;
+        width: 100%
     }
 }
