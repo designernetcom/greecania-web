@@ -3353,8 +3353,8 @@ LISTS
 ==============================
 */
 .list-items .list-item {
-    padding: 30px 0;
-    /*border-bottom: 1px dashed #E6E6E6;*/
+    padding: 15px 0;
+    border-bottom: 2px dashed #bdbdbd;
     transition: padding .3s;
 }
 
@@ -3362,9 +3362,9 @@ LISTS
         padding-left: 5px;
     }
 
-    .list-items .list-item:last-child {
+/*    .list-items .list-item:last-child {
         border-bottom: none;
-    }
+    }*/
 
     .list-items .list-item:hover {
         background-color: rgba(115,115,115,0.02);
