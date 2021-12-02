@@ -3345,6 +3345,10 @@ MOBILE - RESPONSIVE
     margin-left: 60px;
 }
 
+.banner-img{
+    padding: 200px 0;
+}
+
 @media (max-width: 768px){
     .product-content img{
         height: 320px; 
@@ -3353,5 +3357,8 @@ MOBILE - RESPONSIVE
     }
     .product-content h3{
         font-size: 19px 
+    }
+    .banner-img{
+        padding: 65px 0;
     }
 }
