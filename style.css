@@ -6986,3 +6986,9 @@ html.iex .img-box img {
 .product-info .adv-img-full-content{
     box-shadow: 0 0 7px #dedede
 }
+
+.ice{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px
+}
