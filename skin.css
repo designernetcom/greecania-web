@@ -2792,10 +2792,10 @@ body .adv-img-button-content .caption i {
     }
 
     .advs-box-top-icon.boxed-inverse .icon, .advs-box-top-icon.boxed .icon {
-        background-color: #2fd4cb;
+        background-color: #fff;
         margin: -100px 0 0 -55px;
         box-shadow: 0 0 8px #00000052;
-        padding: 10px;
+        padding: 0px;
     }
 
 .table:not(.grid-table) td {

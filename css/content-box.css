@@ -571,16 +571,16 @@ TOP IMAGE
 .advs-box-top-icon .icon {
     font-size: 35px;
     line-height: 46px;
-    margin: -90px 0 0 -45px;
+    margin: -100px 0 0 -55px;
     position: absolute;
     text-align: center;
     box-sizing: initial;
     left: 50%;
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
     color: #FFFFFF;
-    padding: 20px;
-    border-radius: 50%;
+    padding: 0px;
+    border-radius: 0%;
 }
 
 .advs-box-top-icon.boxed .icon, .advs-box-top-icon.boxed-inverse .icon {
